@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d6c99d7b8a54dbb0b7d19705efd7a58523cc3219/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8ca93bc0215b308ed9c1d4f030baaebec9ade1f">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/pre-dexed/debug/classes_eb398a5402c25e67b6c25f7f9ea1f9eafffb7915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nian/Downloads/android-studio/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/pre-dexed/debug/commons-io-2.4_eceb690ecf927572055f6056ef5475ab18a3b919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d7f6896b06e18fbd204f0538491ed0e56086d34d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22b41c84751a986b509c132061cabf4ef41ba611">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/pre-dexed/debug/classes_7bfcb321d95bd5e763f02148081551aac06e92c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.7/69d90fd7fb70e54746e26c10454c220e40a775ce/otto-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/pre-dexed/debug/otto-1.3.7_95c3aea93d71848e06371e7e62bf98afc04293a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2b2db3b4a75bf6b68e86e97d30e6e2ac3a8c6d47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25d6d7292704b74d3f239b913c280b716be759d0">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/pre-dexed/debug/classes_db1568b0874745e29c42f9a5fd8f8c5f699d7881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/91b6ec05e17b147fbf17c788486cd17ac78e5c85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd803f43eddf560e5025b129cea5abcad1096022">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/pre-dexed/debug/classes_71013562c08f6da8b0ac9272931835876cc87709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/fcfb3cfd73b51e4b0ce8cba539ec1c5081857ea1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e0891a69f24747a6988698a57fd55825b31251fa">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/pre-dexed/debug/classes_5c10f6288e8abfd379fce558d5a8ce9d54b0e454.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nian/Pictures/Wanian/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="faf02dece120c659ac57618ce7163af8212e2063">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6e75088fca605b2576e03521c5a1732e39a9cfaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nian/Pictures/Wanian/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bcf198e4766cbece5eb5dd6671a3bdde9143f895/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/home/nian/Pictures/Wanian/app/build/intermediates/pre-dexed/debug/commons-lang3-3.4_1a0fddd3b7df7f90e1237957c5212bb98a140c81.jar" />
+    </item>
+
+</items>
